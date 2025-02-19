@@ -1,0 +1,46 @@
+test 06
+
+question1
+saut4  La réponse correcte est : 193.51.25.254
+Note de 0,00 sur 1,00
+saut 5 /6/7/8
+
+question2
+res1 réponse correcte est : 172.30.0.0
+Note de 0,00 sur 1,00
+m1  réponse correcte est : /16
+Note de 0,00 sur 1,00
+res2
+a réponse correcte est : 193.52.24.0
+Note de 0,00 sur 1,00
+m2
+a réponse correcte est : /24
+Note de 0,00 sur 1,00
+res3
+réponse correcte est : 193.52.24.0
+Note de 0,00 sur 1,00
+m3
+réponse correcte est : /24
+Note de 0,00 sur 1,00
+saut 4
+orrect
+La réponse correcte est : 193.51.25.254
+Note de 0,00 sur 1,00
+
+question 3
+La réponse correcte est : 193.51.25.224
+Note de 0,00 sur 1,00
+a réponse correcte est : 15
+Note de 0,00 sur 1,00
+
+question4
+a réponse correcte est : 15
+Note de 0,00 sur 1,00
+se correcte est : 5
+Note de 0,00 sur 1,00
+ réponse correcte est : 255.255.255.252
+Note de 0,00 sur 1,00
+éponse correcte est : 255.255.255.240
+Note de 1,00 sur 1,00
+ réponse correcte est : 255.255.255.248
+Note de 0,00 sur 1,00

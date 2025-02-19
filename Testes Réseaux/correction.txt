@@ -1,0 +1,14 @@
+test 03 
+question 1-2 
+La réponse correcte est : 192.168.7.0
+Note de 0,00 sur 1,00
+test 04
+question 01
+1/La réponse correcte est : 10.20.30.64:a.test.dz,f.test.dz;10.20.30.128:b.test.dz,e.test.dz;10.20.30.192:c.test.dz,d.test.dz
+Note de 0,00 sur 2,00
+2/La réponse correcte est : 10.20.30.64:g.test.dz,m.test.dz;10.20.30.128:h.test.dz,k.test.dz;10.20.30.192:i.test.dz,j.test.dz
+Note de 0,00 sur 2,00
+3/La réponse correcte est : 10.20.30.64/26,10.20.30.128/26,10.20.30.192/26
+Note de 0,00 sur 2,00
+
+
